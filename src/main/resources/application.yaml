@@ -1,0 +1,4 @@
+spring:
+  task:
+    scheduling:
+      cron: 0 0/2 14 * * ?
